@@ -5,4 +5,10 @@ beans
 peas
 food 
 christmas food
+2
+3
+4
+5
+
+7
 added tea to it

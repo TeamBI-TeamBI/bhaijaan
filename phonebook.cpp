@@ -1,8 +1,8 @@
 /*Simply copy and paste this code in codeblocks/codelite or what ever you are using.
 
-This project is about  a phonebook where you can add contact, view them by their name and id. Removing or editing contact feature is not available in this version, but if you can understand this program; then you can simply add the code that can help to edit or remove contacts.
+This project is aboutÂ  a phonebook where you can add contact, view them by their name and id. Removing or editing contact feature is not available in this version, but if you can understand this program; then you can simply add the code that can help to edit or remove contacts.
 
-You will not find simple code than this for your programming project. Now after completing this, you can try other programs also. You can ask programming questions in our facebook page "Thomas Alva Edison". It is in  the right side. Just go there and like it and start to get benefits.
+You will not find simple code than this for your programming project. Now after completing this, you can try other programs also. You can ask programming questions in our facebook page "Thomas Alva Edison". It is inÂ  the right side. Just go there and like it and start to get benefits.
 
 /*record the phone number of a person*/
 //vector will be used so that vector library will be used
